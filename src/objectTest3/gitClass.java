@@ -12,7 +12,7 @@ package objectTest3;
 public class gitClass {
 
     public static void main(String[] args) {
-        System.out.println("Pizza5");
+        System.out.println("Pizza8");
         System.out.println("POTATO!");
     }   
 }
